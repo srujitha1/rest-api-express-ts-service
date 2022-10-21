@@ -1,0 +1,48 @@
+# VS Code
+.vscode
+
+# Apple Specific
+.DS_Store
+
+# Ignore Build Folder
+build
+dist
+
+# Dependency directories
+node_modules
+
+# Swagger Docs
+public/static
+
+# Cache
+.cache/
+
+# Optional npm cache directory
+.npm
+
+# TypeScript cache
+*.tsbuildinfo
+
+# Optional eslint cache
+.eslintcache
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+
+# Yarn Integrity file
+.yarn-integrity
+
+# Output of 'npm pack'
+*.tgz
+
+# TypeScript v1 declaration files
+typings/
+
+# dotenv environment variables file
+.env
+.env.test

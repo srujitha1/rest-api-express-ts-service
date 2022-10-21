@@ -1,4 +1,4 @@
-## rest-api-service
+## rest-api-express-ts-service
 
 Template for Building REST API with Express, Typescript for Project.
 
